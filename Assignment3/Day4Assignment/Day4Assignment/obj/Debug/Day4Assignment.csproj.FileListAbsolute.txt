@@ -1,0 +1,6 @@
+C:\Users\POONAM BHOSALE\Desktop\DotNetAssignment\Assignment3\Day4Assignment\Day4Assignment\bin\Debug\Day4Assignment.exe.config
+C:\Users\POONAM BHOSALE\Desktop\DotNetAssignment\Assignment3\Day4Assignment\Day4Assignment\bin\Debug\Day4Assignment.exe
+C:\Users\POONAM BHOSALE\Desktop\DotNetAssignment\Assignment3\Day4Assignment\Day4Assignment\bin\Debug\Day4Assignment.pdb
+C:\Users\POONAM BHOSALE\Desktop\DotNetAssignment\Assignment3\Day4Assignment\Day4Assignment\obj\Debug\Day4Assignment.csproj.CoreCompileInputs.cache
+C:\Users\POONAM BHOSALE\Desktop\DotNetAssignment\Assignment3\Day4Assignment\Day4Assignment\obj\Debug\Day4Assignment.exe
+C:\Users\POONAM BHOSALE\Desktop\DotNetAssignment\Assignment3\Day4Assignment\Day4Assignment\obj\Debug\Day4Assignment.pdb
